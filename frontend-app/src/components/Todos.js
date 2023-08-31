@@ -71,7 +71,7 @@ const Todos = () => {
   };
 
   return (
-    <React.Fragment>
+    <React.Fragment> 
       <div className="todos__form">
         <form onSubmit={submitHandler}>
           <label>Todo Text</label>
